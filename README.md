@@ -32,8 +32,7 @@
 
 ### Em produção
 
-- [**vm-task-manager**](https://vitormacedotaskmanager.vercel.app): uso diário. Next.js 16, PostgreSQL com Drizzle, CI no GitHub Actions, testes com Vitest e Playwright. **Live**
-- **Controle de boletos** *(privado)*: sistema de uma loja de rações da família. Supabase com RLS e funções que exigem token, cron diário na Vercel e avisos por e-mail (7, 4, 2, 1 e 0 dias do vencimento). **Live**
+- [**vm-task-manager**](https://vitormacedotaskmanager.vercel.app): uso diário. Next.js 16, PostgreSQL com Drizzle, CI no GitHub Actions, testes com Vitest e Playwright.
 - **Site, painel e atendimento** para um personal trainer *(cliente, privado)*: site de venda, painel de alunos e proposta comercial.
 
 ### Stack
