@@ -29,7 +29,6 @@
 | [**vm-task-manager**](https://github.com/codeveagah/vm-task-manager) | Agenda, rotinas, tarefas, notas e finanças num app só (PWA para iPhone). Streaks, sugestão de encaixe nas janelas livres, notificações push e backup. | Assistente que entende `barbeiro dia 20 às 10h30` por texto ou voz (Whisper + Llama na Groq), com prévia e confirmação antes de executar |
 | [**g-colou**](https://github.com/codeveagah/g-colou) | Extensão do Chrome: o código de verificação do Gmail aparece num card na página. Um clique e está copiado. 100% local. | Construída com Claude Code |
 | [**Portfólio**](https://vitormacedobr.vercel.app) | Meu site com projetos e roadmap de estudos. HTML, CSS e JS puros. | Construído com Claude Code |
-| **Gravador de calls** *(privado)* | Grava e transcreve chamadas de venda. | Transcrição de áudio por API |
 
 ### Em produção
 
