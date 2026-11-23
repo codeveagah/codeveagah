@@ -15,14 +15,14 @@
 
 ---
 
-### 🧠 Sobre mim
+###  Sobre mim
 
-- 🤖 Construo produtos com IA de ponta a ponta, usando **Claude Code** como parceiro de desenvolvimento.
-- 🛡️ Foco em qualidade e segurança: todo projeto passa por testes, revisão e ataque de teste antes de ir ao ar.
-- 📚 Estudando base técnica de IA todo dia: como o modelo aprende, custo, MCP e agentes.
-- 🎯 Próximos passos: servidor MCP para notas, chatbot de atendimento com IA e pentest para apps feitos com IA.
+- Construo produtos com IA de ponta a ponta, usando **Claude Code** como parceiro de desenvolvimento.
+- Foco em qualidade e segurança: todo projeto passa por testes, revisão e ataque de teste antes de ir ao ar.
+- Estudando base técnica de IA todo dia: como o modelo aprende, custo, MCP e agentes.
+- Próximos passos: servidor MCP para notas, chatbot de atendimento com IA e pentest para apps feitos com IA.
 
-### 🛠️ Projetos
+###  Projetos
 
 | Projeto | O que faz | Stack |
 |---|---|---|
@@ -30,7 +30,7 @@
 | [**Task Manager**](https://vitormacedotaskmanager.vercel.app) | Gerenciador de tarefas personalizado para quem quer se organizar. | TypeScript, Vercel |
 | [**Portfólio**](https://vitormacedobr.vercel.app) | Meu site com projetos e roadmap de estudos. | Vercel |
 
-### 🧰 Stack
+###  Stack
 
 **IA**
 
@@ -51,11 +51,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 📈 Agora
-
-- Construindo projetos de portfólio com IA.
-- Estudando base técnica de IA, 1h por dia.
 
 <p align="center">
   <em>Estudando, construindo e compartilhando pelo caminho.</em> ☕
