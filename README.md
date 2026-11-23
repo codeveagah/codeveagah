@@ -34,7 +34,7 @@
 
 - [**vm-task-manager**](https://vitormacedotaskmanager.vercel.app): uso diário. Next.js 16, PostgreSQL com Drizzle, CI no GitHub Actions, testes com Vitest e Playwright. **Live**
 - **Controle de boletos** *(privado)*: sistema de uma loja de rações da família. Supabase com RLS e funções que exigem token, cron diário na Vercel e avisos por e-mail (7, 4, 2, 1 e 0 dias do vencimento). **Live**
-- **Site, painel e atendimento** para um personal trainer *(cliente, privado)*: site de venda, painel de alunos, proposta comercial e vídeo em Remotion.
+- **Site, painel e atendimento** para um personal trainer *(cliente, privado)*: site de venda, painel de alunos e proposta comercial.
 
 ### Stack
 
@@ -72,9 +72,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Remotion](https://img.shields.io/badge/Remotion-0B84F3?style=for-the-badge&logo=remotion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Como eu trabalho
 
